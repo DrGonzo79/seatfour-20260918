@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.DS_Store
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+.env*
+!.env.example

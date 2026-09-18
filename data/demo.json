@@ -1,0 +1,23 @@
+{
+  "games": [
+    {"name":"Catan","description":"Trading, negotiation, and light strategy"},
+    {"name":"Chess","description":"Head-to-head classic strategy"},
+    {"name":"Mahjong","description":"Social tile play for four"},
+    {"name":"Wingspan","description":"Engine building with medium strategy"},
+    {"name":"Ticket to Ride","description":"Approachable route-building strategy"},
+    {"name":"Azul","description":"Fast, tactile pattern drafting"}
+  ],
+  "nights": ["Tuesday", "Thursday", "Friday"],
+  "skillOrder": {"learning":0,"casual":1,"competitive":2},
+  "tables": [
+    {"id":"table-04","game":"Catan","skill":"casual","night":"Friday","time":"7:00 PM","duration":"75 min","venue":"Corner Meeple","neighborhood":"Riverside","distance":2.4,"openSeats":1},
+    {"id":"table-11","game":"Catan","skill":"learning","night":"Friday","time":"6:30 PM","duration":"90 min","venue":"Dice & Draft","neighborhood":"Midtown","distance":5.8,"openSeats":2},
+    {"id":"table-18","game":"Catan","skill":"competitive","night":"Thursday","time":"7:30 PM","duration":"90 min","venue":"Hex House","neighborhood":"Old Town","distance":7.2,"openSeats":1},
+    {"id":"table-22","game":"Chess","skill":"competitive","night":"Tuesday","time":"7:00 PM","duration":"60 min","venue":"Knight Shift","neighborhood":"Downtown","distance":3.1,"openSeats":2},
+    {"id":"table-27","game":"Chess","skill":"casual","night":"Tuesday","time":"6:00 PM","duration":"60 min","venue":"Corner Meeple","neighborhood":"Riverside","distance":9.3,"openSeats":1},
+    {"id":"table-31","game":"Mahjong","skill":"learning","night":"Thursday","time":"6:30 PM","duration":"90 min","venue":"Tile Social","neighborhood":"West End","distance":4.6,"openSeats":2},
+    {"id":"table-38","game":"Wingspan","skill":"casual","night":"Friday","time":"7:30 PM","duration":"100 min","venue":"Hex House","neighborhood":"Old Town","distance":7.2,"openSeats":1},
+    {"id":"table-42","game":"Ticket to Ride","skill":"learning","night":"Tuesday","time":"6:30 PM","duration":"60 min","venue":"Dice & Draft","neighborhood":"Midtown","distance":5.8,"openSeats":3},
+    {"id":"table-49","game":"Azul","skill":"casual","night":"Thursday","time":"7:00 PM","duration":"45 min","venue":"Corner Meeple","neighborhood":"Riverside","distance":2.4,"openSeats":2}
+  ]
+}
